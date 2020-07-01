@@ -2,11 +2,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
-}
-/*hello{
-    font-family: 'Monoton', cursive;
-}
-*/
+} 
 .profile_name{
     color: #EC4E8B;
 }
@@ -110,5 +106,5 @@ button:hover{
     margin: auto;
     margin-bottom: 100px;
     border-radius: 10px;
-    box-shadow: linear-gradient(180deg, dimgrey, grey);
+    box-shadow: linear-gradient(90deg, dimgrey, grey);
 }
