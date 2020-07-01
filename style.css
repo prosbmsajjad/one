@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+/*hello{
+    font-family: 'Monoton', cursive;
+}
+*/
+.profile_name{
+    color: #EC4E8B;
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 12%;
+    padding-left: 2%;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    text-align: center; 
+}
+.half-width img{
+    width: 80%;
+}
+.info{
+    padding-top: 90px;
+}
+.oneBG{
+    background-image: url("images/header-bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.section{
+    height: 600px;
+}
+.biography{
+    float: left;
+    margin-bottom: 100px;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.recent{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+.images{
+    width: 20%;
+    display: inline-block;
+    margin: 2%;
+    padding: 1%;
+}
+.recent{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.last_module{
+    text-align: center;
+}
+.contact{
+    background-color: indianred;
+    width: 600px;
+    height: auto;
+    text-align: center;
+    margin-left: 400px;
+    padding: 10px;
+}
+.client{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.contact_sectioon{
+    text-align: center;
+    padding-bottom: 200px;
+}
+
+input{
+    border: 2px dotted indianred;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+}
+button{
+    border: 2px dotted indianred;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    background-color: lightcyan;
+}
+button:hover{
+    background-color: cyan;
+    color: black;
+}
+.contact_div{
+    text-align: center;
+    padding: 20px 40px;
+    margin: 20px auto;
+    background-color: cyan;
+    color: black;
+    width: 500px;
+    margin: auto;
+    margin-bottom: 100px;
+    border-radius: 10px;
+    box-shadow: linear-gradient(180deg, dimgrey, grey);
+}
